@@ -1,0 +1,27 @@
+{
+  "name": "cookie-popup-blocker",
+  "version": "1.0.0",
+  "description": "A Chrome extension that automatically rejects all cookie pop-ups before they are rendered on the user's screen.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/cookie-popup-blocker.git"
+  },
+  "keywords": [
+    "chrome-extension",
+    "cookie",
+    "popup",
+    "blocker"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/cookie-popup-blocker/issues"
+  },
+  "homepage": "https://github.com/yourusername/cookie-popup-blocker#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
